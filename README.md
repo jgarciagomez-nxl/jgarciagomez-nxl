@@ -1,16 +1,14 @@
 
 <img src="https://www.nextlane.com/wp-content/themes/yagami-adveris/web/src/img/global/logo.svg" width="200"/>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200"/>
-  
-  <div id="badges">
+<div id="badges">
     <a href="https://linkedin.com/in/jorge-garcia-gomez">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
   </div>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200"/>
+  
   <img src="https://komarev.com/ghpvc/?username=jgarciagomez-nxl&style=flat-square&color=blue" alt=""/>
 
   <h1>
