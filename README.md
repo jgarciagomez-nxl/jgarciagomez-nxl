@@ -1,15 +1,7 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E3DAQGNK1Vqsvwp0A/image-scale_191_1128/image-scale_191_1128/0/1696410800904/nextlaneautomotivegroup_cover?e=1741690800&v=beta&t=lj8PA8412JzEtmlXXO-PwClKKZMa1jBP7JxVOSguEBk" width=""/>
 
-<img src="https://www.nextlane.com/wp-content/themes/yagami-adveris/web/src/img/global/logo.svg" width="200"/>
-<div id="badges">
-    <a href="https://linkedin.com/in/jorge-garcia-gomez">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=jgarciagomez-nxl&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200"/>
-  
-  
 
   <h1>
     Hi there
@@ -25,6 +17,7 @@
   <h2>
   I am a Senior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
   <h2>
+      
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
