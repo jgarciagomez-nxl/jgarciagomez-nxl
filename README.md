@@ -1,6 +1,7 @@
 
+<img src="https://www.nextlane.com/wp-content/themes/yagami-adveris/web/src/img/global/logo.svg" width="200"/>
+
 <div id="header" align="center">
-  <img src="https://www.nextlane.com/wp-content/themes/yagami-adveris/web/src/img/global/logo.svg" width="200"/>
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200"/>
   
   <div id="badges">
