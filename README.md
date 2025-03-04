@@ -4,8 +4,8 @@
     <a href="https://linkedin.com/in/jorge-garcia-gomez">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=jgarciagomez-nxl&style=flat-square&color=blue" alt=""/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=jgarciagomez-nxl&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200"/>
   
